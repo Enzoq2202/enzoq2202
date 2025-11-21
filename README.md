@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enzo Quental</h1>
-<h3 align="center">Student of the first Computer Science class at Insper.</h3>
+<h3 align="center">Currently working as an AI Engineer.</h3>
 
 ![](https://streak-stats.demolab.com?user=Enzoq2202&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5)<br/>
 
